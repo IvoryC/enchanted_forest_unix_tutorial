@@ -1,0 +1,30 @@
+Jumpy Fairy
+
+Back? but you just got here!
+If you go, do you promise to come back?
+
+Yes, "back", that's just what you want.
+Tell me, where were you before you were here?
+Right before the last time you used cd ?
+The cd is powerful, it remembers even if you don't.
+Use this:
+cd -
+
+That will take you "back".  Once you get there, where was the last place you were before there?
+-->HERE of course!!!
+Use `cd -` to go back, and then use it again to COME back here.
+For some practice, try bouncing between that shodowy area and the sunny area, just over there.
+
+
+.'.         .'.
+|  \       /  |   https://www.asciiart.eu/mythology/fairies
+'.  \  |  /  .'   3 July 2023
+  '. \\|// .'
+    '-- --'
+    .'/|\'.^~DLF
+   '..'|'..'
+
+
+
+You've unlocked:
+cd -

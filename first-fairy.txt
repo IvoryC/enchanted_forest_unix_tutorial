@@ -1,0 +1,29 @@
+Hi there!
+You look like you're new in here.
+
+Take this: pwd
+
+If you loose your way, use this command to see where you are.
+It will show you the path all the way from Root.
+The Path to Working Directory.  
+
+           .-----.
+ \ ' /   _/    )/
+- ( ) -('---''--)
+ / . \((()\^_^/)()
+  \\_\ (()_)-((()()
+   '- \ )/\._./(()
+     '/\/( X   ) \
+     (___)|___/ ) \
+          |.#_|(___)
+         /\    \ ( (_
+         \/\/\/\) \\
+         | / \ |       Image credit: Elf by Morfina
+         |(   \|       Art copied from 
+        _|_)__|_\_     https://www.asciiart.eu
+        )...()...(       /mythology/fantasy
+         | (   \ |     Accessed on 3 July 2023.
+      .-'__,)  (  \
+  mrf           '\_-,
+
+You've unlocked a new power: pwd
