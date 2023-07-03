@@ -1,0 +1,14 @@
+Is there really such a thing as empty space?
+
+Not here.
+
+I'm hidden but I'm here.
+
+I was made using
+nano .you-got-me.txt
+
+Any file with a "dot" as the first character of its name is "hidden".
+You can hide huge files, even folders.
+
+Want to see a LOT of hidden things?
+Go $HOME and look around.

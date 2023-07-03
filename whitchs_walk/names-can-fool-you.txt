@@ -1,0 +1,45 @@
+
+===== Morfina  =====
+=a cautionary fairy=
+
+Do you know John? So do I.
+But is he one in the same?
+
+Do not be fooled two files with the same name.
+Two files with the same name cannot live in the same folder.
+But in different folders, well, that makes it a whole new name.
+
+I visited an apple once.  I got around on a mouse. 
+When I tried to move a file into a folder that already 
+had a file by that name, the apple stopped me.
+No such mercy here.
+
+You could gather all the fairy files you find into one place.
+But... see that one there? i-want-to-go-back.txt ?
+There is another. If you put them together, only one will make it.
+Only one README.
+
+            .-.-.
+    . .    / %%% \      Fairy Queen by Morfina
+  '     ' / %%%%\ \     https://www.asciiart.eu
+'  \.'./ ( &%%%%%) )      /mythology/fairies
+. -(( ))- '.),ò )%/\
+ .  /\\_ . /\-_/*%%.\
+   .  | /  \°.| %%.°/
+     _|/\ /\_\__/_/\\
+    (( )\\. '::::'. )\
+  .'.\  \\\. .\/. .'\/
+  |\| './)'\'.__.'/\_)
+  |_|_______)_  _(  |-\
+  (^ ^_^_^_^__\/_^\ |  \
+  |\^/ ^ ^ ^ ^ ^ ^ \(__))  
+  |/)^ .' ( ^\^_^_.'_/|
+  |/^ ^| ^ \ ^\ ____/ /
+  /^ ^ |^ ^ \ ^'.___\|\
+ (^_^_^| ^ ^ \-^'
+  | |  \^_^_^/
+  |\|_.:_\ '.\
+.-'-'----'--\:|--- - --
+|            \|
+
+You've been warned.
