@@ -1,0 +1,67 @@
+
+The environment is full of little strings called variables.
+They are all around us, even if you can't see them.
+
+One environmenbt variable you can count is $PWD. It is magically updated everytime you cd.
+Its a string that holds the path to your current working directory (where you are).
+Just like what you see when use the `pwd`.
+
+To see it, try:
+echo $PWD
+
+Not familiar with echo? check out that echoy cave over there...
+
+See the sign at the beginning? The dah-lar sign. 
+That's how echo knows you are calling a variable.
+You wizards can see the sign, but you can't see the value.
+
+There are so many more!
+Some are always here, but some come and go. 
+
+To see which ones are in the environment right now, use this: 
+printenv
+
+See? See? They are real!
+With printenv, you see the name and the value attahced with a special binding sign, the e-kwal.
+
+I see one called "USER" and I see its value, that looks like you!
+Did you miss it in the list?
+To see just that one, just ask echo:
+echo $USER
+
+And there you are!
+
+
+                   ,_  .--.
+             , ,   _)\/    ;--.
+     . ' .    \_\-'   |  .'    \
+    -= * =-   (.-,   /  /       |
+     ' .\'    ).  ))/ .'   _/\ /
+         \_   \_  /( /     \ /(
+         /_\ .--'   `-.    //  \
+         ||\/        , '._//    |
+         ||/ /`(_ (_,;`-._/     /
+         \_.'   )   /`\       .'
+              .' .  |  ;.   /`
+             /      |\(  `.(
+            |   |/  | `    `
+            |   |  /
+            |   |.'
+         __/'  /
+     _ .'  _.-`
+  _.` `.-;`/
+ /_.-'` / /
+       | /
+jgs   ( /
+     /_/
+
+image credit: https://www.asciiart.eu/mythology/fairies
+accessed 5 July 2023
+
+
+read more here:
+https://www.cyberciti.biz/faq/linux-list-all-environment-variables-env-command/
+
+You've unlocked a new power: printenv
+
+This power is not used often...  ¯\_(ツ)_/¯

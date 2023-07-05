@@ -14,6 +14,7 @@ To look around you, use: ls
 It gives you a LiSt of whats around you.
 
 The things you see are either files (things you can print) or directories (rooms you can step into and look around in).
+Files usually have a file extension, like ".txt" at the end of their name. Directories usually do not have any extension.
 
 To print the contents of a file, use: cat <file>
 example: cat README

@@ -1,0 +1,33 @@
+===troll===
+
+Why hello!
+
+I was hoping to see a wizard.
+Won't you help me?
+
+Cast my spell for me, won't you?
+
+Like this:
+./aligator-breeding-program.sh
+
+
+        .-"""".
+       /       \
+   __ /   .-.  .\
+  /  `\  /   \/  \
+  |  _ \/   .==.==.
+  | (   \  /____\__\
+   \ \      (_()(_()
+    \ \            '---._
+     \                   \_
+  /\ |`       (__)________/
+ /  \|     /\___/
+|    \     \||VV
+|     \     \|"""",
+|      \     ______)
+\       \  /`
+jgs      \(
+
+You may choose to cast the spell for the troll:
+./aligator-breeding-program.sh
+

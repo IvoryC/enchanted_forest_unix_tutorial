@@ -14,8 +14,7 @@ When I tried to move a file into a folder that already
 had a file by that name, the apple stopped me.
 No such mercy here.
 
-You could gather all the fairy files you find into one place.
-But... see that one there? i-want-to-go-back.txt ?
+See that one there? i-want-to-go-back.txt ?
 There is another. If you put them together, only one will make it.
 Only one README. Only one metadata.txt. You know the common ones.
 In a given folder, there can only be one!

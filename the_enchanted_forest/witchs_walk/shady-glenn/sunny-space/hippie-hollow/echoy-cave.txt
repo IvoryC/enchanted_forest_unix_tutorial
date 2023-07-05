@@ -1,0 +1,31 @@
+===echo===
+-enchanted creature
+-helful
+-harmless
+
+You see cave say "hello"
+It says "hello" back.
+You play with the echo for a while.
+
+The echo enjoys playing with you so much, that it leaves the cave to follow you on your journey.
+You can play with it any time, like this:
+
+echo "I'm a butterfly"
+
+And the echo prints "I'm a butterfly" to the screen.
+
+Because this is an enchanted creature, it is very helpful in the forest.
+It can see the environment variables.  
+It sees them for what they are; not just what they are called.
+
+Like this:
+
+echo $PATH
+
+It can even see the name of the environemnt itself:
+echo $0
+
+( ( ((( ))) ) )
+
+You've unlocked: echo
+

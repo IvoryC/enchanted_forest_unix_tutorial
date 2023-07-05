@@ -1,12 +1,15 @@
+===talking tree===
+-heard you talking to yourself
+
 Back? But you just got here!
 
 I'm a nice guy, so I'll tell ya, you don't want to go "back".
-You want to go "towards root". Which stranely is called "up".
+You want to go "towards root". Which strangely is called "up".
 
 To do that, just use the cd command ** with an argument **.
 What argument? You gotta know where you want to go!
 Didn't you know--cd can take you anywhere!
-Try this: 
+If you do this: 
 cd / 
 It'll take you all the way to root. There is only one root.
 Its the root of the whole file system.
@@ -14,7 +17,7 @@ But most folks don't want to go all that way.
 They just want to get ONE step closer to root, --even without knowing that folders name.
 Every directory has a name for itself. You call yourself "I", 
 directories call themselves "dot", written as a single . (period).
-So `cd .` is like walking in place. haha. That won't help you!
+So `cd .` is like walking in place. haha! That won't help you.
 
 Every directory has a parent directory, which they call "dot dot", written: ..
 If you want to move--just one step-- closer to root, use:

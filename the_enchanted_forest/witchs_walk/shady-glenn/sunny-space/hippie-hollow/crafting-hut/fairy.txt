@@ -1,0 +1,54 @@
+===crafty fairy===
+
+Did you know, you can CREATE environment variables?
+Use the e-kwal binding.
+Like this:
+NAME=Crystal
+
+Then tell echo to find it for you using the dah-lar sign.
+echo $NAME
+
+But take note, your variable is not shown with printenv.
+Your variable is not privided by the system.
+It was created in the current session, so it only lasts as long as this session. 
+If you close your terminal it will be gone forever.
+
+But thats nice! You wouldn't want to clutter up the environment forever!
+You can variables for what you want to store right now, and when you're done, so are they.
+
+Try creating a variable for my address.
+HUT=$PWD
+
+check it with echo:
+echo $HUT
+
+When you are far away, you can come back here using:
+cd $HUT
+
+...but only for today.  When the sun sets on this session, 
+the $HUT variable will fade out of existance.
+
+You CAN make variables that last accross sessions, 
+but that's for another day.
+
+ __       __          .--.
+(  ""--__(  ""-_    ,' .-.\        *
+ "-_ __  ""--__ "-_(  (^_^))      /
+    (  """--___""--__" )-'(      /
+     "-__      ""---/ ,(., )__o-/,  
+         """----___(.'.   /--"--'
+                   ("-_"/(    /
+                    \   \ \
+                     `.  \ |
+                       \  \/
+                       ||  \
+                     ,-'/`. \
+                     ) /   ) \  Ojo '98
+                     |/    `-.\
+                              `\
+
+image credit: https://www.asciiart.eu/mythology/fairies
+accessed on 5 July 2023
+
+You've unlocked a new skill, the "e-kwal binding".
+

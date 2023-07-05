@@ -1,0 +1,65 @@
+===talking moss===
+-talks about $PATH
+
+All power comes from the $PATH.
+Do not confuse your $PWD with your $PATH !
+$PWD is what you see when you use pwd.
+And how do you pwd? how do you cd? and ls?
+They come from your $PATH!
+
+To see your $PATH, use:
+echo $PATH
+
+See? Its a :-separated list of paths to places in the system. Those are where your powers really reside.  For you to channel a power, it 
+must be on your $PATH.
+
+It is possible to change your $PATH.
+Most wizards do this to gain more power.
+
+But for now, you still need to discover the powers you have.
+
+Take a look at one of your magical items, 
+try ls, and ask where on the $PATH it comes from:
+which ls
+
+That's where the item really resides. It comes from a very powerful folder.
+Try to "ls" that folder. Behold, the powers at your command.
+
+ (              ````                                            
+;`             ;;                                               
+ ;;  -""-.   ;;                 -;'  -.                         
+   ""     ``                      `.   `.                       
+                                    ;    `                      
+           `;                  -          ;         -.        ;`
+             `-  `.         .'`  .-'             .--`  ;     ;  
+              ;    `-.   ;    `-'             .;`     ;       `.
+              .        ``                                       
+               `            .--------.             .'           
+             ...        .--'``````````'--.        ;.            
+            `      . .-' .``          ``. '-. .      `.         
+          ;-.;  .  .' .`                  `. '.  .    ;         
+              .' .' .`                      `. '. '.    .       
+_____/'.-..___________________________ mvn,, ___________________
+                             )\     nMmIEFooPTn                 
+                            ( (    Li1iiJl1ItTIjp               
+                             ) \  i i_BP_LWmKK`  J  `           
+`                .          /  (   i1 LL 1I`L            .      
+             ..             \   \  i   X  Y o1                  
+                        .    )   )  `   l   p      ..           
+;                           /   (,      l(@) l                ..
+  q      ` .  '            (     \.     i    p   R          .;  
+   \  t            ;        )     \`   j,.. ,.q,/Pqoj          `
+    \/            `       ./       \`;     `'     `          .. 
+  '-     \;            -'.'    ;    \ `                     `. `
+.--.`.; ,-.. ,.-, ;' `.-'       `    `.'.   .--.""-._        .; 
+    `............---""     ;_.         )   (  '=    /         `-
+ ~                                    /     `------'     .      
+                 ~                  ,'  \|//            `'      
+                ~           ~       ; `. ""                   ..
+                                     `.  )     \"       .--"""
+
+image credit: https://www.asciiart.eu/nature/landscapes
+accessed on 5 July 2023
+
+You've unlocked a new power: which
+You've unlocked a new environment variable: $PATH
