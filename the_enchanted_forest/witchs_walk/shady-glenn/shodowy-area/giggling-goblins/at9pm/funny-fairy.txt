@@ -1,0 +1,26 @@
+
+Get it? "til-da"? like ~ ?
+Its a special variable that means $HOME
+
+try it:
+echo ~
+echo $HOME
+
+
+    ,@@@@
+__ _ ),\\(\   _,::;
+.)\)\\_(((\),:::::;
+ `\`._,)))))::::::`,
+   `.__/(((:::::::'
+      \  (`:::::::.
+       ) .. `:::::;
+      /   ))  `::'
+      |  //
+      | //
+      \ \\
+       `.\\
+         \((
+          ` ` hjw
+image credit: Art by Hayley Jane Wakenshaw
+https://www.asciiart.eu/mythology/fairies
+5 July 2023

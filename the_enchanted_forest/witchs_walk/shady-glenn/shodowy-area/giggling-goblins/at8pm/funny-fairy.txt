@@ -1,0 +1,28 @@
+
+Oh, a triple pun!
+The period (.) or "dot" has several meanings.
+If its the first character in a file name, that file is "hidden", and ls won't see it unless you use "ls -a".
+AND when you copy or move a file, you can use "." as the destination name to mean that the copy should have the same name as the original.
+AND "." by itself means "here", that is, the current working directory.
+AND you can use as the "source" command to run a script in the current shell instead of its own subshell.
+
+There's a lot in a little dot.
+
+
+    ,@@@@
+__ _ ),\\(\   _,::;
+.)\)\\_(((\),:::::;
+ `\`._,)))))::::::`,
+   `.__/(((:::::::'
+      \  (`:::::::.
+       ) .. `:::::;
+      /   ))  `::'
+      |  //
+      | //
+      \ \\
+       `.\\
+         \((
+          ` ` hjw
+image credit: Art by Hayley Jane Wakenshaw
+https://www.asciiart.eu/mythology/fairies
+5 July 2023
