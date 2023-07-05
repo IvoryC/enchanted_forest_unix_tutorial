@@ -1,0 +1,28 @@
+Hey you!
+One of these gators is not what it seems!
+One is actually a directory in disguise.
+Use this: ls -l
+
+Look -long and hard, and you'll see!
+Look there, on the front, that little 'd'
+THAT ONE's the directory!
+
+
+image credit:
+https://www.asciiart.eu/people/occupations/knights
+
+
+         *_   _   _   _   _   _ *
+ ^       | `_' `-' `_' `-' `_' `|       ^
+ |       |                      |       |
+ |  (*)  |_   _   _   _   _   _ |  \^/  |
+ | _<">_ | `_' `-' `_' `-' `_' `| _(#)_ |
+o+o \ / \0                      0/ \ / (=)
+ 0'\ ^ /\/                      \/\ ^ /`0
+   /_^_\ |                      | /_^_\
+   || || |                      | || ||
+   d|_|b_T______________________T_d|_|b
+
+
+You've unlocked
+ls -l

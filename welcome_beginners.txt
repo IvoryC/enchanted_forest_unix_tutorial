@@ -1,0 +1,26 @@
+Hello young wizard, 
+Welcome to The Enchanted Forest!
+
+Look around. A centaur may give you a quest.  There are many fairies here to help you on your journey. But watch out for trolls, they will 
+try to catch you! And the goblins...they always tell the truth, but they should not be trusted.
+
+To navigate the forest, you will need these three magical items:
+
+ls
+cat
+cd
+
+To look around you, use: ls
+It gives you a LiSt of whats around you.
+
+The things you see are either files (things you can print) or directories (rooms you can step into and look around in).
+
+To print the contents of a file, use: cat <file>
+example: cat README
+
+To move into a directory, use: cd <directory>
+example 1: cd the_enchanted_forest
+example 2: cd kings_land
+
+Good Luck!
+

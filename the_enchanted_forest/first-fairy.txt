@@ -1,3 +1,5 @@
+====pwd fairy====
+
 Hi there!
 You look like you're new in here.
 
@@ -27,3 +29,4 @@ The Path to Working Directory.
   mrf           '\_-,
 
 You've unlocked a new power: pwd
+

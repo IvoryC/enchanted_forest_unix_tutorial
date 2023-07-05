@@ -1,12 +1,31 @@
 README
 
-Welcome to The Enchanted Forest!
+This is an educational tool that uses a narrative style to reinforce basic unix skills.
 
-Use the cd command to move into a directory.
-Use the ls command to look around where you are now.
+To use the enchanted forest tutorial...TBD
 
-Most directories have a README, like me. Always read the REAMDE!
-Use the cat command to print file contents to the screen.
-Some of my cousins use different file extensions, like README.md, README.txt; but just plain "README" is enough for me.  You get 
-the message, right? READ ME! (got it?)
+Open a unix environment (on mac, open "terminal", on PC use WSL2)
+
+# download the zipped folder
+wget https://github.com/IvoryC/enchanted_forest_unix_tutorial/archive/refs/heads/main.zip
+
+# unzip the folder
+unzip main.zip
+
+# enter the folder
+cd enchanted_forest_unix_tutorial
+
+# see the instructions
+cat welcome_beginners.txt
+
+# enter the forest
+cd the_enchanted_forest
+
+
+If you get an error like "wget: command not found" then try this instead:
+curl -0 https://github.com/IvoryC/enchanted_forest_unix_tutorial/archive/refs/heads/main.zip
+
+For developers seeking to extend the enchanted forest, see for_developers.
+
+For instructors seeking to use the tool, see for_instructors.
 
