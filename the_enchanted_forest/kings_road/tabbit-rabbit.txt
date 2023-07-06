@@ -14,8 +14,9 @@ I can fill in anything that you can see with ls, you just have to type enough th
 I can even run ahead of you and see things before you do!
 
 Try it out:
-cd ki
---and tab! I'll give ya kings_land, and --tab again, I'll take you all the way to kings_crossing.
+cd th
+--and tab! I'll give ya to the_castle, and --tab again, I'll show you wants there.  
+Add JUST enough, "th" --tab! and I'll take you all the way to the throne-room.
 You and me, we can tab through loads of directories in flash! tab! tab! tab!
 
 What do you say?
@@ -33,3 +34,4 @@ Art by Joan Stark
 https://www.asciiart.eu/animals/rabbits
 accessed: 3 July 2023
 
+You've aquired a helpful habbit: tabbit-rabbit
